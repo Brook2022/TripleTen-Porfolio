@@ -65,7 +65,7 @@ My education includes a Master’s degree in Theological Studies from Wesley The
   * User Feedback: The analysis highlights that the helpfulness of reviews plays a significant role in app popularity, as shown by the average helpful reviews metric.
   * Rating Trends: By visualizing the relationship between developer responses and average ratings, the analysis underscores the importance of developer interaction in maintaining high app ratings.*
 
-  ### Project 5: SQL
+### Project 5: SQL
 - **Date:* 03/28/2024*  
 
 - **Role:* In my role at Zuber, I analyze data to uncover patterns that reveal passenger preferences and the impact of external factors, such as weather, on rides. By examining data from competitors and testing hypotheses, I aim to understand how weather influences ride frequency, providing insights that can guide strategic decisions as the company launch in Chicago. *  
@@ -80,7 +80,7 @@ My education includes a Master’s degree in Theological Studies from Wesley The
   * Weather Impact: By classifying weather conditions as "Good" or "Bad," I determined that adverse weather conditions such as rain or storms influence ride durations, especially for trips from the Loop to O'Hare. This information can be crucial for optimizing ride pricing and service availability.*
   * Geographic Focus: The identification of key neighborhoods like Loop and O'Hare for targeted analysis allows Zuber to better understand and address the specific needs and challenges of these areas, particularly during adverse weather conditions.*
 
-    ### Project 6: Python
+### Project 6: Python
 
 - **Date:* 06/28/2024*  
 
@@ -96,7 +96,7 @@ My education includes a Master’s degree in Theological Studies from Wesley The
   * Enhanced Analysis through New Metrics: By calculating the lifespan and total revenue for each console, I provided valuable metrics that can be used to compare the performance and longevity of different consoles. Sorting the dataset by these metrics further enhanced the ability to draw meaningful conclusions.*
   * Strategic Insights: The analysis and calculations performed in this project enable deeper insights into the gaming console market, such as identifying the most profitable consoles and understanding the impact of product longevity on revenue. These insights can inform future product development and marketing strategies.*
 
-  ### Project 7: Power BI Final Project
+### Project 7: Power BI Final Project
 
 - **Date:* 07/28/2024*  
 
