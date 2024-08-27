@@ -1,12 +1,14 @@
 # Business Analysis Project Portfolio
 
 ## Table of Contents
+
 1. [Introduction](#introduction)
 2. [Projects](#projects)
 3. [Skills](#skills)
 4. [Contact](#contact)
 
 ## Introduction
+
 As a skillful Business Analyst with over 7 years of experience, I have a strong track record of delivering actionable insights and driving business success in fast-paced environments. My proficiency in advanced spreadsheets, SQL, and data visualization tools like Tableau and Power BI allows me to transform complex data into clear, impactful narratives that guide strategic decisions.
 
 Currently, I am refining my skills as a Business Intelligence Analyst at TripleTen, where I manage large databases and apply advanced statistical techniques to extract, analyze, and interpret data. My efforts have helped achieve a 98% data integrity rate, ensuring the accuracy and reliability of our data.
@@ -18,6 +20,7 @@ My education includes a Master’s degree in Theological Studies from Wesley The
 ## Projects
 
 ### Project 1: Advanced Excel
+
 - **Date:** 03/14/2024  
 - **Role:** I help a client analyze the Manhattan vacation rental market. My role is to guide them on which property types to invest in by analyzing Airbnb data. I focus on identifying the most attractive neighborhoods and property sizes for vacation rentals and determining how much revenue these listings generate.
 - **Tools:** Excel   
@@ -29,6 +32,7 @@ My education includes a Master’s degree in Theological Studies from Wesley The
   - The estimated maximum annual revenue for a property in Midtown is $99,912.22, based on an average occupancy rate of 72.49% and an average daily price of $377.60 over 365 days. 
 
 ### Project 2: Business Analytics
+
 - **Date:** 04/11/2024  
 - **Role:** In my role, I build a conversion funnel, prepare data for cohort analysis, calculate retention rates, and organize and document the spreadsheet.  
 - **Tools:** Google spreadsheet**  
@@ -39,6 +43,7 @@ My education includes a Master’s degree in Theological Studies from Wesley The
    - The retention rate drops significantly after the initial purchase. 
 
 ### Project 3: Tableau
+
 - **Date:** 04/25/2024  
 - **Role:** In my role as a consultant, I review the superstore’s operations and identify strategies to increase profitability and avoid bankruptcy. For each analysis, I prepare a visualization to support my conclusions.   
 - **Tools:** Tableau   
@@ -54,8 +59,10 @@ My education includes a Master’s degree in Theological Studies from Wesley The
     - I find Technology the highest return rate. I recommend reducing prices or making products more affordable.
     - In geographic focus, Utah and California have higher-than-average return rates. I suggest increasing customer support teams in these regions.
     - In seasonal trends, returns peak in August and December. I recommend offering special deals during back-to-school and end-of-year periods.
+    - **Deployment:** [Project3](https://public.tableau.com/shared/MJPK4WHGF?:display_count=n&:origin=viz_share_link)
 
 ### Project 4: Power BI
+
 - **Date:** 05/30/2024  
 - **Role:* In my role, I review the landscape of apps on the Shopify platform using data scraped from publicly available Shopify websites. I identify key factors contributing to the success of Shopify apps. For each part of the project, I create a page in a Power BI report, using visualizations to answer each question. I also take screenshots of my work for each subquestion to document the process.   
 - **Tools:** Power BI   
@@ -64,8 +71,10 @@ My education includes a Master’s degree in Theological Studies from Wesley The
   * Developer Engagement: Apps with more active and responsive developers tend to have higher ratings and more helpful reviews. This suggests that ongoing developer support is crucial for app success.
   * User Feedback: The analysis highlights that the helpfulness of reviews plays a significant role in app popularity, as shown by the average helpful reviews metric.
   * Rating Trends: By visualizing the relationship between developer responses and average ratings, the analysis underscores the importance of developer interaction in maintaining high app ratings.
+- **Deployment:** [Project4]()
 
 ### Project 5: SQL
+
 - **Date:** 03/28/2024  
 
 - **Role:* In my role at Zuber, I analyze data to uncover patterns that reveal passenger preferences and the impact of external factors, such as weather, on rides. By examining data from competitors and testing hypotheses, I aim to understand how weather influences ride frequency, providing insights that can guide strategic decisions as the company launch in Chicago. *  
@@ -117,6 +126,7 @@ The project has two main stages: planning (decomposition) and execution. My resp
 ## Skills and Tools
 
 ### Skills:
+
 - **Data Analysis** 
 - **SQL** 
 - **Python Programming** 
@@ -128,6 +138,7 @@ The project has two main stages: planning (decomposition) and execution. My resp
 - **Market Research** 
 
 ### Tools:
+
 - **SQL** 
 - **Python** 
 - **Microsoft Excel** 
