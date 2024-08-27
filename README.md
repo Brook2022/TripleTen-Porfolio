@@ -134,7 +134,7 @@ The project has two main stages: planning (decomposition) and execution. My resp
 - **Power BI** 
 - **Tableau** 
 - **Markdown**
-- 
+  
 ## Contact
 
 **Email:** [abigiamoses@gmail.com](mailto:abigiamoses@gmail.com)  
