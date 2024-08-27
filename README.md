@@ -71,7 +71,7 @@ My education includes a Master’s degree in Theological Studies from Wesley The
   * Developer Engagement: Apps with more active and responsive developers tend to have higher ratings and more helpful reviews. This suggests that ongoing developer support is crucial for app success.
   * User Feedback: The analysis highlights that the helpfulness of reviews plays a significant role in app popularity, as shown by the average helpful reviews metric.
   * Rating Trends: By visualizing the relationship between developer responses and average ratings, the analysis underscores the importance of developer interaction in maintaining high app ratings.
-- **Deployment:** [Project4]()
+- **Deployment:** [Project4](https://app.powerbi.com/links/PcdhmP02vG?ctid=14ac139d-6206-4b38-bac0-4f3f6c1128d8&pbi_source=linkShare)
 
 ### Project 5: SQL
 
