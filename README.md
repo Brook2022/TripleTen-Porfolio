@@ -133,10 +133,8 @@ The project has two main stages: planning (decomposition) and execution. My resp
 - **Microsoft Excel** 
 - **Power BI** 
 - **Tableau** 
-- **Markdown** 
-- **f-string in Python**  
-- **Nested Loops and Indexing**
-
+- **Markdown**
+- 
 ## Contact
 
 **Email:** [abigiamoses@gmail.com](mailto:abigiamoses@gmail.com)  
