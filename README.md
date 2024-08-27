@@ -122,6 +122,7 @@ The project has two main stages: planning (decomposition) and execution. My resp
   * To maximize revenue, marketing efforts should target the 22-26 age group, single customers, and both genders. Tailored campaigns for these demographics can enhance engagement and spending. Additionally, high-income earners should be offered premium services and exclusive deals to further boost their contribution.
   * Given the strong preference for certain cuisines and brands, expanding offerings and promotions around North Indian, Chinese, and well-loved fast-food chains can drive sales. Collaborating with these brands will also strengthen customer loyalty.
   * Addressing the declining retention rate is crucial. Implementing re-engagement strategies and learning from competitors' successful retention tactics will be key to improving customer loyalty and ensuring long-term revenue growth.
+- **Deployment:** [Project4](https://app.powerbi.com/links/HlYrHRXGxR?ctid=14ac139d-6206-4b38-bac0-4f3f6c1128d8&pbi_source=linkShare)
  
 ## Skills and Tools
 
