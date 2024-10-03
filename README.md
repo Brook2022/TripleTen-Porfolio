@@ -42,6 +42,7 @@ My education includes a Master’s degree in Theological Studies from Wesley The
 
      - 29% of users who browse a product page proceed to the shopping cart, and 10% complete a purchase.
    - The retention rate drops significantly after the initial purchase. 
+   - **Deployment:** [Project2](https://docs.google.com/spreadsheets/d/1Z57fKljfQxWi9IhobPfFejQRRqJ0G2hxwuhJ_PcsyCw/edit?usp=sharing)
 
 ### Project 3: Tableau
 
