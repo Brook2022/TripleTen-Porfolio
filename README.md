@@ -30,6 +30,7 @@ My education includes a Master’s degree in Theological Studies from Wesley The
    - I identified the top 10 neighborhoods for rental activity: Lower East Side, Hell’s Kitchen, Harlem, Midtown, Upper West Side, Chelsea, East Village, East Harlem, West Village, and Nolita.
   - One and two-bedroom units are the most popular accommodations. Lower East Side leads in one-bedroom rentals with 86.96%, while Midtown stands out for its 64.39% share of studio apartments.
   - The estimated maximum annual revenue for a property in Midtown is $99,912.22, based on an average occupancy rate of 72.49% and an average daily price of $377.60 over 365 days. 
+ - **Deployment:** [Project1](https://docs.google.com/spreadsheets/d/1XPsInv6ecFUOo0wP9Bthhy-ibU3IfZ8HeyST8VsNE6I/edit?usp=sharing)
 
 ### Project 2: Business Analytics
 
